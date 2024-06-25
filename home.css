@@ -1,0 +1,43 @@
+h1 {
+    color:blue;
+}
+p {
+    margin: 7% 5%;
+    color:white;
+    font-size: xx-large;
+    font-style: bold;
+    font-weight: bold;
+}
+body {
+    background-color: gainsboro
+}
+body {
+    scrollbar-color: red;
+    background-image: url("me.png");
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+ul {
+    color: green;
+    font-style: bold;
+    font-size: large;
+    font-weight: bold;
+    font-size: xx-large;
+}
+form {
+    color: green;
+    font-style: bold;
+    font-size: large;
+    font-weight: bold;
+    font-size: xx-large;
+}
+select {
+    color: green;
+    font-style: bold;
+    font-size: large;
+    font-weight: bold;
+    font-size: xx-large;
+}
